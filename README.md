@@ -1,4 +1,4 @@
-# 🐦 Post Feed App
+# 🐦 Posts App
 
 A full-stack Twitter-style post feed where users can create posts with a title, description, and optional image — uploaded and stored on **AWS S3**. This project was built to learn how to integrate AWS S3 for file uploads and manage full-stack data flow with modern tools.
 
