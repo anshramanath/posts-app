@@ -1,5 +1,7 @@
 # 🐦 Posts App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A full-stack Twitter-style post feed where users can create posts with a title, description, and optional image — uploaded and stored on **AWS S3**. This project was built to learn how to integrate AWS S3 for file uploads and manage full-stack data flow with modern tools.
 
 ![Posts App](screenshots/posts-app.png)
